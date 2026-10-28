@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: draw dash
+  m_Name: Dotted Line Animation
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,13 +21,17 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 3966495081406275915, guid: 956264f43f91e4e5facab70647dee9f4, type: 3}
+      value: {fileID: -8682211360138579292, guid: 240e7ea694fa14d10b117ef83a586be8, type: 3}
+    - time: 0.16666667
+      value: {fileID: 1926521937647330882, guid: 240e7ea694fa14d10b117ef83a586be8, type: 3}
+    - time: 0.33333334
+      value: {fileID: 8639810728642059028, guid: 240e7ea694fa14d10b117ef83a586be8, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 4
+  m_SampleRate: 6
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -44,13 +48,15 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 3966495081406275915, guid: 956264f43f91e4e5facab70647dee9f4, type: 3}
+    - {fileID: -8682211360138579292, guid: 240e7ea694fa14d10b117ef83a586be8, type: 3}
+    - {fileID: 1926521937647330882, guid: 240e7ea694fa14d10b117ef83a586be8, type: 3}
+    - {fileID: 8639810728642059028, guid: 240e7ea694fa14d10b117ef83a586be8, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.25
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
