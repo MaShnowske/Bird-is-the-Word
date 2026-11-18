@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6606379829042372097}
   - component: {fileID: 2810887086656078988}
-  - component: {fileID: 3478020329191221584}
   - component: {fileID: 6199080469314685631}
   - component: {fileID: 4291007860917214423}
   m_Layer: 0
@@ -94,19 +93,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &3478020329191221584
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5090763378628188903}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d299ac1597d284c03a8e740c698d7d50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Portal
-  goToScene: 
 --- !u!61 &6199080469314685631
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -166,5 +152,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trigger_Portal
   goToScene: 
-  useKey: 0
+  useKey: 1
   key: 1

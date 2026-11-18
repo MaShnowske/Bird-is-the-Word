@@ -9,29 +9,47 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Examples/Crossword/Crossword.unity
-    guid: ec765dd3399014e3aaa6c9e4d7b13bb3
+    path: Assets/Scenes/Big Hallway From Grand Hall.unity
+    guid: 7c58d09a968f64c0ea10c70a9259704f
   - enabled: 1
     path: Assets/Scenes/Big Hallway.unity
     guid: 45c099298b50a470aabeaa8d36ab10f6
   - enabled: 1
+    path: Assets/Scenes/Brickyard from Cut Scene.unity
+    guid: e24d19e53cb8a46efb783199e66f6d7c
+  - enabled: 1
+    path: Assets/Scenes/Brickyard.unity
+    guid: 3c95aa9f1aea2472eac60c631d32a1a1
+  - enabled: 1
+    path: Assets/Scenes/Crossword!.unity
+    guid: 1e3bffc6693e64e05b660885076923b4
+  - enabled: 1
     path: Assets/Scenes/Garden.unity
     guid: c36a07ae5be454c91b1ca70a42ae28aa
   - enabled: 1
+    path: Assets/Examples/Crossword/Crossword.unity
+    guid: da853995c81964304b805bd80acdf5a4
+  - enabled: 1
+    path: Assets/Scenes/Grand Hall from Garden.unity
+    guid: 0483c2982377c44d58e47ecc724a1b05
+  - enabled: 1
+    path: Assets/Scenes/Grand Hall.unity
+    guid: 899396ef84f954e1889640286d8062e8
+  - enabled: 1
     path: Assets/Scenes/Library.unity
     guid: 845742fb4fa32498d821be79b7e0c325
+  - enabled: 1
+    path: Assets/Scenes/Top of Tower (Cut Scene).unity
+    guid: cffc3d45eb696461c9ab7b62d909855f
+  - enabled: 1
+    path: Assets/Scenes/Top of Tower (opening).unity
+    guid: b3fac00cee97646a99c0d85ea3309f3f
   - enabled: 1
     path: Assets/Scenes/Top of Tower Enterence.unity
     guid: fa8fc50e43762456fbc0f698ffcf5f75
   - enabled: 1
     path: Assets/Scenes/UI template.unity
     guid: e72a7f9d7e4ba47f292a73a2a2ee4988
-  - enabled: 1
-    path: Assets/Scenes/Grand Hall.unity
-    guid: 899396ef84f954e1889640286d8062e8
-  - enabled: 1
-    path: Assets/Scenes/Top of Tower (opening).unity
-    guid: cffc3d45eb696461c9ab7b62d909855f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
