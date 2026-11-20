@@ -1224,7 +1224,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
+  m_VertexColorAlwaysGammaSpace: 1
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
@@ -1502,12 +1502,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1832765996}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ee33b3caf05c942e6bca32c339d9ba58, type: 3}
+  m_Script: {fileID: 11500000, guid: ce811b77080b3489bae6898e79a4418b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Crossword
   row: {fileID: 484060225}
   cell: {fileID: 251590624}
-  puzzle: {fileID: 11400000, guid: bef6c671d2b8f4e739f14c14d3e76ac5, type: 2}
+  puzzle: {fileID: 11400000, guid: 565b0ead7fcfe487e86b1b3b4e00bf58, type: 2}
   style: {fileID: 11400000, guid: 17bdc6221aa14d20a6e3e023f454e429, type: 2}
   acrossText: {fileID: 0}
   downText: {fileID: 0}

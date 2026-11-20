@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5745709420477879352}
   - component: {fileID: 5738110245597817189}
   - component: {fileID: 9157085862993905693}
+  - component: {fileID: 280545933834687581}
   - component: {fileID: 4037112871893666464}
   - component: {fileID: 3217260387503830255}
   m_Layer: 0
@@ -201,6 +202,19 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.017656386, y: -0.21981429}
   m_Radius: 0.3427211
+--- !u!114 &280545933834687581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055744356219558916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c93dfcc60d4b4c4899d437e3956470d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Player_Collect_Item
+  collected: []
 --- !u!50 &4037112871893666464
 Rigidbody2D:
   serializedVersion: 5

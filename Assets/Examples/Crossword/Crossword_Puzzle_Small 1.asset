@@ -17,7 +17,7 @@ MonoBehaviour:
     _ _ _ A _ _ _
 
     _ _ I T _ _ _'
-  clues: 'SHOT: Not cold, like a {bonus:freshly baked} cookie
+  clues: 'SHOT: Not cold, like a {SHOT:freshly baked} cookie
 
     HAT: Worn on the
     {IT:head}
